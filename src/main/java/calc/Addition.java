@@ -4,9 +4,11 @@ public class Addition {
     public static void main(String[] args) {
 
         int x=1;
-        int y= 20;
+       int c = 50;
 
-        int sum = x+y;
+
+
+        int sum = x+c;
         System.out.println("sum of two number is: " + sum);
 
         Substract substract= new Substract(80,50);

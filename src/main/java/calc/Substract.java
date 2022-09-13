@@ -2,7 +2,7 @@ package calc;
 
 public class Substract {
     int x ;
-    int y ;
+    int y    ;
 
     Substract(int x, int y){
         int c = x-y;
