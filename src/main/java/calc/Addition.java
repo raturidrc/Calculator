@@ -11,5 +11,8 @@ public class Addition {
 
         Substract substract= new Substract(80,50);
 
+        Multply multply =  new Multply(2,3,6);
+
+
     }
 }
