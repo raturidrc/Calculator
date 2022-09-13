@@ -20,5 +20,15 @@ public class Addition {
         System.out.println(" // testing changes in newBranch\n");
 
 
+        System.out.println(" Divide ----------------------");
+        Divide divide = new Divide(10,20,2);
+
+        Divide divide2 = new Divide(100,20,2);
+
+
+
+
+
+
     }
 }
