@@ -7,6 +7,9 @@ public class Addition {
         int y= 20;
 
         int sum = x+y;
-        System.out.println("Sum is :" + sum);
+        System.out.println("sum of two number is: " + sum);
+
+        Substract substract= new Substract(80,50);
+
     }
 }
