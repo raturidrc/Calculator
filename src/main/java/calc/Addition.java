@@ -7,11 +7,6 @@ public class Addition {
        int c = 50;
 
 
-jkvdjsdlvjsdjvlkdjlvkjdlvj
-        public hey(){
-
-
-        }
         int sum = x+c;
         System.out.println("sum of two number is: " + sum);
 
